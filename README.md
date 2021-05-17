@@ -1,16 +1,35 @@
 # contaBancaria
 
-  Links de pesquisa:
-  
-https://www.w3schools.com/html/tryit.asp?filename=tryhtml_form_submit
+ Luan Felipe da Cruz Brito
+ Estudante de ciência da computação
+ 
+ Proposta:
+ 
+ Desafio Cadastro Pessoal - Atração
 
-https://www.w3schools.com/html/tryit.asp?filename=tryhtml_elem_select
+Criar um formulario para registrar dados pessoais
+Front
+Domínio - Modelagem de Dados
 
-https://www.youtube.com/watch?v=wwqOJ2o84S4
+    Cadastro Pessoal com os campos: Nome, Cpf, Rg, Sexo, Endereco, Numero, Bairro, Cidade, Estado, Cep, Telefone Fixo, Telefone Celular.
 
-https://www.youtube.com/watch?v=6uEuPp2Q6pU
+Regra de Negócio
 
-https://www.youtube.com/watch?v=vJoCnzEucCc&t=9s
+    Os campos Nome, Cpf, Endereco, Numero, Telefone Celular são obrigatórios
 
+Requisitos
 
-https://www.w3schools.com/tags/att_input_type_tel.asp
+    Explorar os recursos de CSS
+    Explorar os recursos do Javascript
+
+Extras
+
+    O campo Sexo pode ser do tipo select com com as opções M = Masculino, F = Feminino
+    Usar template aplicado nas aulas
+    Disponibilizar o link do github do projeto bem descrito quanto às funcionalidades, implementações relevantes e links de pesquisas
+
+Orientaçãoes
+
+    O desafio é individual
+    Não usar frameworks de estilo como Bootstrap, Google Material e demais.
+
